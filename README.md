@@ -1,6 +1,6 @@
 ### Hi there 👋 It's Kabi4
 
-🌱 I’m currently working on NODE Advance.
+:smiling_imp: I’m currently working on NODE Advance.
 
 📫 Reach me on:
 <a href="https://dev.to/Kabi4">
