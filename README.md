@@ -2,6 +2,9 @@
 
 :smiling_imp: I’m currently working on NODE Advance.
 
+# About me
+  I am Full Stack Developer with techs in bag React,Node,Mongo,Express.Filled with zeal to work with you!Just reach me !:wink:
+
 📫 Reach me on:
 <a href="https://dev.to/Kabi4">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Kabi4's DEV Profile" height="30" width="30">
