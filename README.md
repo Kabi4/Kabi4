@@ -12,7 +12,7 @@ _________________________________________________________________
 
 ### :newspaper: App Creations
 
--(https://img.shields.io/twitter)[Twitter Clone](https://twitter-clone-3f55d.web.app/)  
+-[Twitter Clone](https://twitter-clone-3f55d.web.app/)  
 -[Netflix Clone](https://netflix-app-c21cd.web.app/browse)  
 -[Collegeaira App](https://collegearia-b7b0b.web.app/browse)  
 
