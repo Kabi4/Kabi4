@@ -3,7 +3,7 @@
 :smiling_imp: I’m currently working on NODE Advance.
 
 # About me
-  I am Full Stack Developer with techs in bag React,Node,Mongo,Express.Filled with zeal to work with you!Just reach me !:wink:
+  `I am a Full Stack Developer with techs in bag React,Node,Mongo,Express.Filled with zeal to work with you! Just reach me !:wink:`
 
 📫 Reach me on:
 <a href="https://dev.to/Kabi4">
