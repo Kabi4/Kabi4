@@ -18,7 +18,7 @@ _________________________________________________________________
 - [Twitter Clone](https://twitter-clone-3f55d.web.app/)  
 - [Netflix Clone](https://netflix-app-c21cd.web.app/browse)  
 - [Collegeaira App](https://collegearia-b7b0b.web.app/browse)  
-- [Task-Managing-Api](https://github.com/Kabi4/Task-managing-App) @ `https://git.heroku.com/task-manager-devilksk.git/api/v1/(user|task)`
+- [Task-Managing-App-Api](https://github.com/Kabi4/Task-managing-App) @ `https://git.heroku.com/task-manager-devilksk.git/api/v1/(user|task)`
 
 <hr/>
 
