@@ -1,6 +1,6 @@
 ### Hi there 👋 It's Kabi4(Kushagra Singh)
 
-:smiling_imp: I’m currently working on NODE Advance.
+:smiling_imp: I’m currently working on Socket.io Advance.
 
 # About me
   `I am a Full Stack Developer with techs in bag React,Node,Mongo,Express.Filled with zeal to work with you! Just reach me!`:wink:
