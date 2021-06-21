@@ -9,7 +9,7 @@
 <a href="https://dev.to/Kabi4">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Kabi4's DEV Profile" height="30" width="30">
 </a>
-[![Twitter](https://img.shields.io/twitter/follow/KabirSingh114?style=social)](https://twitter.com/KabirSingh114)  [![Linkedin](https://img.shields.io/badge/-LinkedIn-0073b1?style=social&logo=Linkedin&link=https://www.linkedin.com/in/kushagra-singh-2492291ab/)](https://www.linkedin.com/in/kushagra-singh-2492291ab/) [![GitHub Prashant](https://img.shields.io/github/followers/Kabi4?label=follow&style=social)](https://github.com/Kabi4) 
+[![Twitter](https://img.shields.io/twitter/follow/KabirSingh114?style=social)](https://twitter.com/KabirSingh114)  [![Linkedin](https://img.shields.io/badge/-LinkedIn-0073b1?style=social&logo=Linkedin&link=https://www.linkedin.com/in/kushagra-singh-2492291ab/)](https://www.linkedin.com/in/kushagra-singh-2492291ab/) [![GitHub Kushagra](https://img.shields.io/github/followers/Kabi4?label=follow&style=social)](https://github.com/Kabi4) 
 _________________________________________________________________
 
 
